@@ -34,6 +34,14 @@
         "environments": [ "edit","dev","preview","live"],
         "url": "https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/edge-delivery/overview",
         "passReferrer": true
+      },
+      {
+        "id": "adobe",
+        "containerID":"widgets",
+        "title": "Adobe",
+        "environments": [ "edit","dev","preview","live"],
+        "url": "https://www.adobe.com/home",
+        "passReferrer": true
       }
     ]
   }
