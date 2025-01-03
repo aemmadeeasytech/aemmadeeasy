@@ -32,7 +32,7 @@
         "containerId":"widgets",
         "title": "EDS Tutorial",
         "environments": [ "edit","dev","preview","live"],
-        "url": "https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/edge-delivery/overview",
+        "url": "https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/edge-delivery/overview?q=aemmadeeasytraining",
         "passReferrer": true,
         "passConfig":true
       },
