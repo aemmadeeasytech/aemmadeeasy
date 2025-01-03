@@ -21,6 +21,19 @@
         "includePaths": [ "**.docx**" ],
         "passConfig": true,
         "rail": false
+      },
+      {
+        "id": "widgets",
+        "title": "Widgets",
+        "isContainer": true
+      },
+      {
+        "id": "eds",
+        "containerID":"widgets",
+        "title": "EDS Tutorial",
+        "environments": [ "edit","dev","preview","live"],
+        "url": "https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/edge-delivery/overview",
+        "passReferrer": true
       }
     ]
   }
