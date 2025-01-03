@@ -29,7 +29,7 @@
       },
       {
         "id": "eds",
-        "containerID":"widgets",
+        "containerId":"widgets",
         "title": "EDS Tutorial",
         "environments": [ "edit","dev","preview","live"],
         "url": "https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/edge-delivery/overview",
@@ -37,7 +37,7 @@
       },
       {
         "id": "adobe",
-        "containerID":"widgets",
+        "containerId":"widgets",
         "title": "Adobe",
         "environments": [ "edit","dev","preview","live"],
         "url": "https://www.adobe.com/home",
