@@ -30,7 +30,6 @@ indices:
           attribute(el, 'content')
 
  blogpages:
-    
     include:
       - '/blogs/**'
     target: '/blogpages-index'
